@@ -33,10 +33,15 @@ Columns: Customer ID, Gender, InternetService, TechSupport, Contract, PaymentMet
 
 ### Key Visualizations:
 **Page 1 - Churn Overview:** Customer Distribution by Churn, Churn by Contract Type, Churn by Internet Service
+<img width="922" height="517" alt="image" src="https://github.com/user-attachments/assets/43cc8d20-e50b-425e-ae04-f7f74973098a" />
 
 **Page 2 - Risk Analysis:** Risk Distribution, Tenure Impact, Churn Rate by Monthly Charges, High-Risk Table
+<img width="921" height="513" alt="image" src="https://github.com/user-attachments/assets/c5ba8c06-eae1-4efe-a08b-c8b8982f1de6" />
+
 
 **Page 3 - Insights:** High Risk Customers by Contract
+<img width="915" height="510" alt="image" src="https://github.com/user-attachments/assets/690cdf65-322c-40c3-9fe8-aef3f7c8c195" />
+
 
 ## Insights
 
