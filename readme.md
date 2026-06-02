@@ -1,15 +1,15 @@
 # Telecom Customer Churn Analysis
 
-## Quick Links
-- [Power BI Dashboard](https://app.powerbi.com/groups/me/reports/aa6b150e-34ad-4138-b84e-58bf8c109717?ctid=27282fdd-4c0b-4dfb-ba91-228cd83fdf71&pbi_source=linkShare)
-- [Cleaned Dataset](Telecom churn dataset.csv)
-- [SQL Queries](Telecom churn dashboard.pdf)
-  
 # Summary
 
 This project analyzes telecom customer data to understand what’s really driving customer churn, particularly contract type, tenure, monthly charges, and measures they impact customer retention.
 For prepping of data Microsoft Excel was used, after which an interactive Power BI dashboard was built to segment customers and track churn patterns.
 The analysis identified an overall 26% churn rate, with month-to-month customers forming the majority of high-risk users, highlighting contract type as the strongest predictor of churn.
+
+## Quick Links
+- [Power BI Dashboard](https://app.powerbi.com/groups/me/reports/aa6b150e-34ad-4138-b84e-58bf8c109717?ctid=27282fdd-4c0b-4dfb-ba91-228cd83fdf71&pbi_source=linkShare)
+- [Cleaned Dataset](https://github.com/tan2711/Customer-Churn-Analysis-Risk-Segmentation/blob/a4d27e79b4c38f88a9f3511b2d481dd90e52fb7d/Telecom%20churn%20dataset.csv)
+  
 
 ## Data Preparation (Microsoft Excel)
 
