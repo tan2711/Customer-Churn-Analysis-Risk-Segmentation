@@ -2,8 +2,8 @@
 
 ## Quick Links
 - [Power BI Dashboard](https://app.powerbi.com/groups/me/reports/aa6b150e-34ad-4138-b84e-58bf8c109717?ctid=27282fdd-4c0b-4dfb-ba91-228cd83fdf71&pbi_source=linkShare)
-- [Cleaned Dataset]()
-- [SQL Queries]()
+- [Cleaned Dataset](Telecom churn dataset.csv)
+- [SQL Queries](Telecom churn dashboard.pdf)
   
 # Summary
 
